@@ -9,3 +9,10 @@ There are several things which may help to improve this project:
 The csv file contains the list of data sets of all SDRP decisions uploaded until 1 Apr 2017. Any user may seek to clean up the csv file for your own purposes, as we have sought to canvass as much attributes as possible for our analysis.
 
 The python files contains the code which we have used to engage in linear and logistic regression models to conduct our analysis.
+
+# Instructions
+Download the files
+Change the file path of csv at line 12
+
+# Team members
+Kenji Lee, Sung Yu Xin, Lim Wei Zhen 
